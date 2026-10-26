@@ -46,3 +46,11 @@ This directory contains the visual deliverables required for the **Horizon Inter
 ### Additional App Evidence:
 - **Negative Sentiment Prediction**: ![Negative Sentiment Demo](negative_sentiment_demo.png)
 - **Overall UI & Sidebar**: ![Application Overview](app_overview.png)
+
+---
+
+## 5. Video Demonstration (`sentiment_demo_video.mp4` & `.webp`)
+- **Format**: MP4 (H.264 / AAC compatible) + Animated WebP
+- **Duration**: ~66 seconds (meets 1–2 minute internship requirement)
+- **Contents**: Full live walkthrough of UI, positive review inference, negative review inference, keyword explanations, and held-out test confusion matrix metrics.
+- **Direct Link**: [sentiment_demo_video.mp4](sentiment_demo_video.mp4) | [sentiment_demo_video.webp](sentiment_demo_video.webp)
